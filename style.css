@@ -1,0 +1,57 @@
+.gradient-background {
+    background: linear-gradient(300deg, #4C3BCF, #F5EFFF, #B7E0FF);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    position: relative;
+    padding-top: 20px;
+  }
+  h1 {
+    color: rgb(65, 201, 201);
+    font-size: 5.625rem;
+    font-family: Sacramento, cursive;
+    margin: 50px auto px;
+  }
+  h2 {
+    color: rgb(102, 191, 191);
+    font-family: Montserrat, sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px
+}
+.Element-color {
+    background: linear-gradient(#C8A1E0,#FF8A ,#E7E8D8 );
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    position: relative;
+    padding-top: 20px;
+    text-align: center;
+}
+p {
+    line-height: 2;
+    color:black
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+h4{
+  color: #4C3BCF ;
+  font-size: 3rem;
+  margin: 10px;
+  font-family: Sacramento, cursive;
+}
+.footer {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
